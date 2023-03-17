@@ -1,4 +1,4 @@
-# Determine the class average for the quiz with your Script
+# Determine the practice_class average for the quiz with your Script
 
 if __name__ == '__main__':
     total = 0
